@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-05T11:49:24 IST" name="BOOKINGS.com Application Test Automation Test Suite" finished-at="2024-02-05T11:50:29 IST" duration-ms="65892">
+    <groups>
+    </groups>
+    <test started-at="2024-02-05T11:49:24 IST" name="Bookings.com App Test Cases" finished-at="2024-02-05T11:50:29 IST" duration-ms="65892">
+      <class name="booking.comTest.BookingTestCases">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:booking.comTest.BookingTestCases@70fc8551]" started-at="2024-02-05T11:49:24 IST" name="setUp" finished-at="2024-02-05T11:49:49 IST" duration-ms="25172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1()[pri:0, instance:booking.comTest.BookingTestCases@70fc8551]" started-at="2024-02-05T11:49:49 IST" name="test1" finished-at="2024-02-05T11:50:28 IST" duration-ms="39247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:booking.comTest.BookingTestCases@70fc8551]" started-at="2024-02-05T11:50:28 IST" name="aftertest" finished-at="2024-02-05T11:50:29 IST" duration-ms="1402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- booking.comTest.BookingTestCases -->
+    </test> <!-- Bookings.com App Test Cases -->
+  </suite> <!-- BOOKINGS.com Application Test Automation Test Suite -->
+</testng-results>
